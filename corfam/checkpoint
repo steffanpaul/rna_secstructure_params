@@ -1,0 +1,2 @@
+model_checkpoint_path: "resbind_glna_corfam_best.ckpt"
+all_model_checkpoint_paths: "resbind_glna_corfam_best.ckpt"

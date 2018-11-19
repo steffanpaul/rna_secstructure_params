@@ -1,0 +1,2 @@
+model_checkpoint_path: "RNN_t4.0.8_best"
+all_model_checkpoint_paths: "RNN_t4.0.8_best"

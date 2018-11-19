@@ -1,0 +1,2 @@
+model_checkpoint_path: "hairpin_best.ckpt"
+all_model_checkpoint_paths: "hairpin_best.ckpt"

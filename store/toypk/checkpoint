@@ -1,0 +1,2 @@
+model_checkpoint_path: "mlp_pkhp_d3t5_best.ckpt"
+all_model_checkpoint_paths: "mlp_pkhp_d3t5_best.ckpt"

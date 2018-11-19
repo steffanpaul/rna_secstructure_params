@@ -1,0 +1,2 @@
+model_checkpoint_path: "rnn_trna_tp030_best"
+all_model_checkpoint_paths: "rnn_trna_tp030_best"

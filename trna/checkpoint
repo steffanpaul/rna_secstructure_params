@@ -1,0 +1,2 @@
+model_checkpoint_path: "RNN_t1_best"
+all_model_checkpoint_paths: "RNN_t1_best"

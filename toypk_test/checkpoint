@@ -1,0 +1,2 @@
+model_checkpoint_path: "resbind_pkhp_d4_pretran_best.ckpt"
+all_model_checkpoint_paths: "resbind_pkhp_d4_pretran_best.ckpt"
