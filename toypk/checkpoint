@@ -1,2 +1,2 @@
-model_checkpoint_path: "resbind_pkhp_d6t3_best.ckpt"
-all_model_checkpoint_paths: "resbind_pkhp_d6t3_best.ckpt"
+model_checkpoint_path: "resbind_pkhp_d6t4e1000_best.ckpt"
+all_model_checkpoint_paths: "resbind_pkhp_d6t4e1000_best.ckpt"

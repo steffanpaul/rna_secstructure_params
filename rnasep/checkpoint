@@ -1,0 +1,2 @@
+model_checkpoint_path: "mlp_rnasep_full_best.ckpt"
+all_model_checkpoint_paths: "mlp_rnasep_full_best.ckpt"
